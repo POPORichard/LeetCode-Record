@@ -1,10 +1,11 @@
-package day2_7
+package day2_7_maxSubArray
 
 import (
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
 
+//线段树？？？
 func anotherMaxSubArray(nums []int) int {
 	return get(nums, 0, len(nums) - 1).mSum;
 }
