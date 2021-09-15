@@ -10,8 +10,11 @@ type ListNode struct {
 }
 
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+	//建立哑巴节点
 	dummy := &ListNode{Val: 0}
+	//头指针此时指向哑巴节点
 	head := dummy
+	//比较大小并添加链接
 	for l1 != nil && l2 != nil {
 		if l1.Val < l2.Val {
 			head.Next = l1
@@ -20,6 +23,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 			head.Next = l2
 			l2 = l2.Next
 		}
+		//将头指针后移
 		head = head.Next
 	}
 	// 连接l1 未处理完节点
