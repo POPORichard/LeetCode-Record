@@ -1,4 +1,4 @@
-package day9_6
+package day9_6_insertionSortList
 
 import (
 	"github.com/stretchr/testify/assert"
