@@ -11,6 +11,7 @@ func betterSubarraysDivByK(nums []int, k int) int {
 	sum, ans := 0, 0
 	for _, elem := range nums {
 		sum += elem
+		//不能直接用sum%k, 可能有负数的情况
 		modulus := (sum % k + k) % k
 		ans += record[modulus]
 		record[modulus]++
