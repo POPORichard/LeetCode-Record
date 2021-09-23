@@ -11,6 +11,7 @@ type ListNode struct {
 }
 
 func detectCycle(head *ListNode) *ListNode {
+	if head == nil {return head}
 	faster := head
 	slower := head
 
@@ -25,11 +26,11 @@ func detectCycle(head *ListNode) *ListNode {
 		}
 	}
 	for {
-		head = head.Next
-		slower = slower.Next
 		if head == slower{
 			return head
 		}
+		head = head.Next
+		slower = slower.Next
 	}
 }
 
@@ -54,5 +55,17 @@ func TestDetectCycle(t *testing.T){
 
 	res := detectCycle(&head)
 	assert.Equal(t, 2, res.Val, "Error in case 1")
+
+	//case 2
+	head = ListNode{
+		Val:  1,
+		Next: &ListNode{
+			Val:  2,
+			Next: nil,
+		},
+	}
+	head.Next.Next = &head
+	res = detectCycle(&head)
+	assert.Equal(t, 1, res.Val, "Error in case 2")
 
 }
