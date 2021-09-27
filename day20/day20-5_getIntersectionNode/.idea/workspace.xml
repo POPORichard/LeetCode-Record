@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8176406d-b8da-4609-9e3c-9dd1286c77f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day20-2_maxProduct/152. 乘积最大子数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-2_maxProduct/maxProduct_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-3/maxSubArray_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-3/面试题 16.17. 连续数列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-4_maxValue/another_maxValue_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-4_maxValue/maxValue_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-4_maxValue/剑指 Offer 47. 礼物的最大价值.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-5_getIntersectionNode/160. 相交链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-5_getIntersectionNode/better_getIntersectionNode_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20-5_getIntersectionNode/getIntersectionNode_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day10/day10-4/728. 自除数.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../day10/day10-4/728. 自除数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day10/day10-4/selfDividingNumbers_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../day10/day10-4/selfDividingNumbers_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day10/day10-8/findTargetSumWays_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day15/day15-4/subarraySum_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day15/day15-7/minDifference_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17/day17-4/82. 删除排序链表中的重复元素 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17/day17-4/82. 删除排序链表中的重复元素 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17/day17-4/deleteDuplicates_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17/day17-4/deleteDuplicates_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17/day17-9/19. 删除链表的倒数第 N 个结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17/day17-9/19. 删除链表的倒数第 N 个结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17/day17-9/removeNthFromEnd_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17/day17-9/removeNthFromEnd_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/day19-4/getMoneyAmount_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day9/day9-2/485. 最大连续 1 的个数.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../day9/day9-2/485. 最大连续 1 的个数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day9/day9-2/findMaxConsecutiveOnes_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../day9/day9-2/findMaxConsecutiveOnes_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1yiOufCnNyvNBRzVwXcliyzmdeM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestBetterGetIntersectionNode in day20-5">
+    <configuration name="TestBetterGetIntersectionNode in day20-5" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="day20-5" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="day20-5" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestBetterGetIntersectionNode$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetIntersectionNode in day20-5" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="day20-5" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="day20-5" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetIntersectionNode$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBetterGetIntersectionNode in day20-5" />
+        <item itemvalue="Go Test.TestGetIntersectionNode in day20-5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1109" height="228" key="GridCell.Tab.0.bottom" timestamp="1632732880300">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1109" height="228" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1632732880300" />
+    <state width="1109" height="228" key="GridCell.Tab.0.center" timestamp="1632732880299">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1109" height="228" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1632732880299" />
+    <state width="1109" height="228" key="GridCell.Tab.0.left" timestamp="1632732880299">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1109" height="228" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1632732880299" />
+    <state width="1109" height="228" key="GridCell.Tab.0.right" timestamp="1632732880300">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1109" height="228" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1632732880300" />
+  </component>
+</project>
