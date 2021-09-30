@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da642c0-64c4-4dde-ae08-78573bf560f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1xtHNBvDfCpkMurZHivo2uD6mw6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.Test_betterCommonChars in day2-5">
+    <configuration name="Test_betterCommonChars in day2-5" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="day2-5" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="day2-5" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_betterCommonChars$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_commonChars in day2-5" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="day2-5" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="day2-5" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_commonChars$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_betterCommonChars in day2-5" />
+        <item itemvalue="Go Test.Test_commonChars in day2-5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="615" height="545" key="GridCell.Tab.0.bottom" timestamp="1631171536203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536203" />
+    <state width="615" height="545" key="GridCell.Tab.0.center" timestamp="1631171536203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536203" />
+    <state width="615" height="545" key="GridCell.Tab.0.left" timestamp="1631171536203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536203" />
+    <state width="615" height="545" key="GridCell.Tab.0.right" timestamp="1631171536203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536203" />
+    <state width="615" height="545" key="GridCell.Tab.1.bottom" timestamp="1631171536204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536204" />
+    <state width="615" height="545" key="GridCell.Tab.1.center" timestamp="1631171536204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536204" />
+    <state width="615" height="545" key="GridCell.Tab.1.left" timestamp="1631171536203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536203" />
+    <state width="615" height="545" key="GridCell.Tab.1.right" timestamp="1631171536204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="615" height="545" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1631171536204" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/commonChars_test.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
