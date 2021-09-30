@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda5c24a-1ef7-41c8-a2c3-f5de53161053" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day23-8/92. 反转链表 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day23-8/reverseBetween_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1299. 将每个元素替换为右侧最大元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replaceElements_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1yqrYN6HMyDgErtWF9Dc6HHTTJH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestReplaceElements in day23-9" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="day23-9" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="day23-9" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestReplaceElements$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestReplaceElements in day23-9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1028" height="284" key="GridCell.Tab.0.bottom" timestamp="1632994866479">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866479" />
+    <state width="1028" height="284" key="GridCell.Tab.0.center" timestamp="1632994866478">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866478" />
+    <state width="1028" height="284" key="GridCell.Tab.0.left" timestamp="1632994866478">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866478" />
+    <state width="1028" height="284" key="GridCell.Tab.0.right" timestamp="1632994866479">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866479" />
+    <state width="1028" height="284" key="GridCell.Tab.1.bottom" timestamp="1632994866481">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866481" />
+    <state width="1028" height="284" key="GridCell.Tab.1.center" timestamp="1632994866480">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866480" />
+    <state width="1028" height="284" key="GridCell.Tab.1.left" timestamp="1632994866480">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866480" />
+    <state width="1028" height="284" key="GridCell.Tab.1.right" timestamp="1632994866481">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1028" height="284" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1632994866481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/replaceElements_test.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/replaceElements_test.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
